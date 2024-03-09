@@ -1,6 +1,6 @@
 # What is Computer Programming?
 objectives(Van Roy, Haridi S. 2004:xiii):
-- attempts to define computer programming as a unified discipline using programming concepts, programming techniques independent of programming languages.
+- attempts to define computer programming as a unified discipline using programming concepts and techniques independent of programming language implementations.
 
 - def programming concepts (Van Roy, Haridi S. 2004:xiii):
    - these are organized in terms of/in relation to computation models:

@@ -1,1 +1,0 @@
-Python programs are divided into logical lines.

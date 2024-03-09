@@ -1,1 +1,0 @@
-{"name":"sbt","version":"1.8.2","bspVersion":"2.1.0-M1","languages":["scala"],"argv":["/Users/praisetompane/.asdf/installs/java/temurin-11.0.20+8/bin/java","-Xms100m","-Xmx100m","-classpath","/Users/praisetompane/.asdf/installs/sbt/1.8.2/bin/sbt-launch.jar","-Dsbt.script=/Users/praisetompane/.asdf/installs/sbt/1.8.2/bin/sbt","xsbt.boot.Boot","-bsp"]}
