@@ -1,0 +1,1 @@
+Common Lisp VS Racket - testimonies: https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac
