@@ -2,8 +2,9 @@
 programs implementing computational problem solutions over various data structures in each computational model.
 
 ## Practice Computational Problem Sources  
-HackerRank: https://www.hackerrank.com/dashboard
-CodinGame: https://www.codingame.com/home
+    - cracking the coding interview book
+    - HackerRank: https://www.hackerrank.com/dashboard
+    - CodinGame: https://www.codingame.com/home
 
 
 # References:
